@@ -1,7 +1,7 @@
 ﻿using System;
 using calculator;
 
-namespace Calculator
+namespace calculator
 {
     internal class Program
     {
@@ -25,6 +25,8 @@ namespace Calculator
 
             memory.Clear();
             memory.ShowMemory();
+
+            Console.ReadLine();
         }
     }
 }

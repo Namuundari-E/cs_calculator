@@ -43,7 +43,10 @@ namespace calculator
         {
             this.Value = a;
         }
-        
+        public override string ToString()
+        {
+            return $"{Value}";
+        }
     }
 
 }
