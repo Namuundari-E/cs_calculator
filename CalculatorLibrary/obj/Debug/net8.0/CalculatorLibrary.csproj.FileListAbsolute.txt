@@ -1,0 +1,11 @@
+E:\VisualStudio_projects\lab1\CalculatorSolution\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+E:\VisualStudio_projects\lab1\CalculatorSolution\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+E:\VisualStudio_projects\lab1\CalculatorSolution\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+E:\VisualStudio_projects\lab1\CalculatorSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio_projects\lab1\CalculatorSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+E:\VisualStudio_projects\lab1\CalculatorSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+E:\VisualStudio_projects\lab1\CalculatorSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+E:\VisualStudio_projects\lab1\CalculatorSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+E:\VisualStudio_projects\lab1\CalculatorSolution\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+E:\VisualStudio_projects\lab1\CalculatorSolution\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+E:\VisualStudio_projects\lab1\CalculatorSolution\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
